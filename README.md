@@ -17,6 +17,6 @@ A two pass assembler does two passes over the source file (the second pass can b
 > ## Outputs
 
 1. ### 
-    <img src="./opPass2.jpg" width="500">
+    <img src="./opPass2.jpg" >
 2. ### 
-    <img src="./outputPass2(2ip).jpg" width="500">
+    <img src="./outputPass2(2ip).jpg" >
